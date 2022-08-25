@@ -1,5 +1,4 @@
-# Programación orientada a objetos
-## Trabajo 1
+# Trabajo 1 - Programación orientada a objetos
 ### Integrantes:
 |Nombre completo                       |Correo                  |Git user            |
 |--------------------------------------|------------------------|--------------------|
